@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Sura Sans';
+    src: url('./fonts/SuraSans-Regular.otf') format('opentype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Sura Sans';
+    src: url('./fonts/SuraSans-SemiBold.otf') format('opentype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Sura Sans';
+    src: url('./fonts/SuraSans-Bold.otf') format('opentype');
+    font-weight: 700;
+}
+
+* {
+    font-family: 'Sura Sans', sans-serif;
+}
